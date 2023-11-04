@@ -15,6 +15,7 @@ Finding the length of the words by using len() function.
 Calling the function and printing the number of words.
 
 ## PROGRAM:
+```
 ##REGISTER NO:212222230105
 ##NAME:PAVANA.G
 n=input('Enter File name: ')
@@ -24,6 +25,7 @@ with open(n,'r') as f:
         words=line.split()
         wordslen+=len(words)
 print("Number of words:",wordslen)
+```
 ### FILE CONTENT:
 ![Screenshot (233)](https://github.com/gpavana/Word-count/assets/118787343/58ceb62b-e853-44e0-9812-f2719673dedf)
 ### OUTPUT:
