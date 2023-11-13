@@ -1,4 +1,5 @@
 # Word-count
+## DATE:26.09.2023
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
@@ -13,7 +14,6 @@ Open then required file by using the function"with"
 Finding the length of the words by using len() function.
 ### Step 4:  
 Calling the function and printing the number of words.
-
 ## PROGRAM:
 ```
 ##REGISTER NO:212222230105
@@ -30,6 +30,5 @@ print("Number of words:",wordslen)
 ![Screenshot (233)](https://github.com/gpavana/Word-count/assets/118787343/58ceb62b-e853-44e0-9812-f2719673dedf)
 ### OUTPUT:
 ![Screenshot (234)](https://github.com/gpavana/Word-count/assets/118787343/a1f02d0e-d246-4861-b8a3-3b4e42303115)
-
 ## RESULT:
 Thus the program is written to find the word count from a text.
